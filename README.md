@@ -26,8 +26,7 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7 : End the HTML structure.
 
 PROGRAM:
-```
-<!DOCTYPE html>
+'''
 <html>
 <head>
 <script type="text/javascript">
@@ -60,7 +59,9 @@ Enter Previous Reading
 </html>
 '''
 OUTPUT:
-![Screenshot 2023-12-26 130916](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/ae772ab6-925d-4fe5-b3b8-929aa59fb607)
+
+
+![Screenshot 2023-12-26 130916](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/40df0772-a1fe-43bd-8fbd-6d80ef67c8ac)
 
 
 
@@ -88,7 +89,6 @@ STEP 7 : End the HTML structure.
 
 PROGRAM:
 '''
-<!DOCTYPE html>
 <html>
 <head>
 <script type="text/javascript">
@@ -116,8 +116,8 @@ Enter Number: <input type="text" id="num">
 '''
 OUTPUT:
 
-![Screenshot 2023-12-26 131136](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/ad24f66f-adf8-402a-9337-705da1b87a64)
 
+![Screenshot 2023-12-26 131136](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/86a9d5cb-9376-422d-a6f1-3bf72937dd20)
 
 
 RESULT:
@@ -144,7 +144,6 @@ STEP 7 : End the HTML structure.
 
 PROGRAM:
 '''
-<!DOCTYPE html>
 <html>
 <head>
 <script type="text/javascript">
@@ -172,16 +171,18 @@ alert(i);
 </head>
 <body>
 <form>
+    Enter Number:
 <input type="text" id="n1">
 <input type="text" id="n2">
 <input type="button" onclick="show()" value="Generate">
 </form>
 </body>
 </html>
+
 '''
 OUTPUT:
 
-![Screenshot 2023-12-26 131754](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/3997996d-cd7f-4aa8-b4a2-c8b69bbd2623)
+![Screenshot 2023-12-26 131754](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/a577a966-cf83-4706-a036-f734408663ac)
 
 
 RESULT:
@@ -208,7 +209,6 @@ STEP 7: End the HTML structure.
 
 PROGRAM:
 '''
-<!DOCTYPE html>
 <html>
 <head>
 <script type="text/javascript">
@@ -287,6 +287,7 @@ document.getElementById("n3").value=" ";
 </form>
 </body>
 </html>
+
 '''
 
 
@@ -320,7 +321,6 @@ STEP 7 : End the HTML structure.
 
 PROGRAM:
 '''
-<!DOCTYPE html>
 <html>
 <head>
 <script type="text/javascript">
@@ -384,11 +384,11 @@ Simple Text Editor using JavaScript
 </form>
 </body>
 </html>
+
 '''
 OUTPUT:
 
-![Screenshot 2023-12-26 132319](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/57f6f692-3197-42df-afa0-80a496287101)
-
+![Screenshot 2023-12-26 132319](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/1435fb9b-a31d-46a7-b2b6-1df1b22d6d32)
 
 
 RESULT:
@@ -415,7 +415,6 @@ STEP 7 : End the HTML structure.
 
 PROGRAM :
 '''
-<!DOCTYPE html>
 <html>
 <head>
   <title>Form Validation</title>
@@ -495,7 +494,9 @@ PROGRAM :
 
 OUTPUT:
 
-![Screenshot 2023-12-26 132555](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/7db78842-8b00-47c7-a70b-cdccc858c29a)
+
+![Screenshot 2023-12-26 132555](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/12ff02cb-6974-4dbd-b7f4-6d74ee0d8a52)
 
 RESULT:
 Thus the java code executed to design a JavaScript program which displays error messages when a field in form is entered incorrectly.
+
