@@ -26,6 +26,7 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7 : End the HTML structure.
 
 PROGRAM:
+
 '''
 <html>
 <head>
@@ -58,6 +59,7 @@ Enter Previous Reading
 </body>
 </html>
 '''
+
 OUTPUT:
 
 
@@ -88,6 +90,7 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7 : End the HTML structure.
 
 PROGRAM:
+
 '''
 <html>
 <head>
@@ -114,6 +117,7 @@ Enter Number: <input type="text" id="num">
 </body>
 </html>
 '''
+
 OUTPUT:
 
 
@@ -143,6 +147,7 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7 : End the HTML structure.
 
 PROGRAM:
+
 '''
 <html>
 <head>
@@ -178,8 +183,8 @@ alert(i);
 </form>
 </body>
 </html>
-
 '''
+
 OUTPUT:
 
 ![Screenshot 2023-12-26 131754](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/a577a966-cf83-4706-a036-f734408663ac)
@@ -208,6 +213,7 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7: End the HTML structure.
 
 PROGRAM:
+
 '''
 <html>
 <head>
@@ -287,9 +293,7 @@ document.getElementById("n3").value=" ";
 </form>
 </body>
 </html>
-
 '''
-
 
 OUTPUT:
 
@@ -320,6 +324,7 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7 : End the HTML structure.
 
 PROGRAM:
+
 '''
 <html>
 <head>
