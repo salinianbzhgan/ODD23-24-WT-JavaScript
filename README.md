@@ -114,6 +114,7 @@ Enter Number: <input type="text" id="num">
 </html>
 '''
 OUTPUT:
+
 ![Screenshot 2023-12-26 131136](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/9f994216-ed21-49c1-9b0b-a49561766cf6)
 
 
@@ -287,6 +288,7 @@ document.getElementById("n3").value=" ";
 
 
 OUTPUT:
+
 ![Screenshot 2023-12-26 132043](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/86b3c66c-1ae1-4ef4-8994-e05da03b81ee)
 
 
