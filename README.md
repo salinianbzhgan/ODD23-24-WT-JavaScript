@@ -60,8 +60,9 @@ Enter Previous Reading
 </html>
 '''
 OUTPUT:
+![Screenshot 2023-12-26 130916](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/ae772ab6-925d-4fe5-b3b8-929aa59fb607)
 
-![Screenshot 2023-12-26 130916](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/5818117d-eee2-4e12-b732-79884f64bc68)
+
 
 RESULT:
 Thus the java code executed to calculate the electricity bill.
@@ -115,7 +116,8 @@ Enter Number: <input type="text" id="num">
 '''
 OUTPUT:
 
-![Screenshot 2023-12-26 131136](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/9f994216-ed21-49c1-9b0b-a49561766cf6)
+![Screenshot 2023-12-26 131136](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/ad24f66f-adf8-402a-9337-705da1b87a64)
+
 
 
 RESULT:
@@ -179,7 +181,8 @@ alert(i);
 '''
 OUTPUT:
 
-![Screenshot 2023-12-26 131754](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/59491f4f-d684-4bc8-bb20-b0db57ebd0a4)
+![Screenshot 2023-12-26 131754](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/3997996d-cd7f-4aa8-b4a2-c8b69bbd2623)
+
 
 RESULT:
 Thus the java code executed to construct a JavaScript code to generate ‘N’ prime numbers.
@@ -289,7 +292,8 @@ document.getElementById("n3").value=" ";
 
 OUTPUT:
 
-![Screenshot 2023-12-26 132043](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/86b3c66c-1ae1-4ef4-8994-e05da03b81ee)
+![Screenshot 2023-12-26 132043](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/234dcee0-1bc3-4df7-a10a-06345aa6a1b1)
+
 
 
 RESULT:
@@ -383,7 +387,8 @@ Simple Text Editor using JavaScript
 '''
 OUTPUT:
 
-![Screenshot 2023-12-26 132319](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/97317fc3-aeba-49ca-97b2-497321ccf0eb)
+![Screenshot 2023-12-26 132319](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/57f6f692-3197-42df-afa0-80a496287101)
+
 
 
 RESULT:
@@ -490,7 +495,7 @@ PROGRAM :
 
 OUTPUT:
 
-![Screenshot 2023-12-26 132555](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/f0119ddf-0781-47fe-b76c-2f8fd79d9b10)
+![Screenshot 2023-12-26 132555](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/7db78842-8b00-47c7-a70b-cdccc858c29a)
 
 RESULT:
 Thus the java code executed to design a JavaScript program which displays error messages when a field in form is entered incorrectly.
