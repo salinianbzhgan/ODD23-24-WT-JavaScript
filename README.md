@@ -1,37 +1,32 @@
 # ODD23-24-WT-JavaScript
-NAME:SALINI A
-DEPT:IT
 
-'1
+NAME: SALINI . A
 
-AIM
+REFERENCE NUMBER: 23008741
 
+DEPARTMENT: IT
+
+PROGRAM 1
+AIM:
 To create a form with java script code to calculate electricity bill.
 
-'PROCEDURE
+DESIGNING PROCEDURE:
+STEP 1: Start define the document as HTML.
 
-'STEP 1:
+STEP 2: Open the HTML structure with necessary head and body .Give the script type as text/javascript.
 
-Create a HTML structure and insert a 'script' tag in the 'head' section for JavaScript.
+STEP 3: Define the function for the program as calc().
 
-'STEP 2:
+STEP 4: Give the necessary input that is required for calculating the electricity bill like var prev,curr,units,amt. Get the number for input using document.getElementById.
 
-Inside, create a form with fields for previous and current readings. Add a "Generate Bill" button.
+STEP 5: Give the necessary condition using if-else condition. Close the script and head tags.
 
-'STEP 3:
+STEP 6: Give the input type in the body of the HTML.
 
-Connect the "Generate Bill" button to a JavaScript function called calc() using on click.
-
-'STEP 4:
-
-Write the calc() function to compute the bill based on readings.
-
-'STEP 5:
-
-Run the code to perform calculations and display the output.
+STEP 7 : End the HTML structure.
 
 PROGRAM:
-
+<!DOCTYPE html>
 <html>
 <head>
 <script type="text/javascript">
@@ -62,38 +57,34 @@ Enter Previous Reading
 </form>
 </body>
 </html>
- OUTPUT:
- 
-![Screenshot 2023-12-26 130916](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/49f4c2bd-1c1d-47b1-8510-018a7dade6e5)
+OUTPUT:
 
+![Screenshot 2023-12-26 130916](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/5818117d-eee2-4e12-b732-79884f64bc68)
 
 RESULT:
- the output was verified successfully.
- 
-'2
+Thus the java code executed to calculate the electricity bill.
 
+PROGRAM 2
 AIM:
-
 To create a form with java script code to compute the factorial of a given number without recursion.
 
-'PROCEDURE:
+DESIGNING PROCEDURE:
+STEP 1: Start define the document as HTML.
 
-STEP 1:
+STEP 2: Open the HTML structure with necessary head and body .Give the script type as text/javascript.
 
-Create a basic 'html' structure. Inside the 'head', add a 'script' tag to include JavaScript,
+STEP 3: Define the function for the program as show().
 
-'STEP 2:
+STEP 4: Give the necessary input that is require to compute the factorial like var i, n, fact. Get the number for input using document.getElementById.
 
-In the 'body', create a 'form' for user interaction. Include an input field where users can enter a number they want to find the factorial of
+STEP 5: Using for-loop condition calculate the factorial. Close the script and head tags.
 
-'STEP 3:
-Define a JavaScript function called show(). Inside this function. Initialize a variable fact to 1 to store the factorial result. Retrieve the number entered by the user using getElementById. Use a loop to calculate the factorial of the entered number. Update the result field with the computed factorial valu
+STEP 6: Give the input type in the body of the HTML.
 
-'STEP 4:
-
-Run the code to calculate the factorial of a given number and display the output
+STEP 7 : End the HTML structure.
 
 PROGRAM:
+<!DOCTYPE html>
 <html>
 <head>
 <script type="text/javascript">
@@ -120,37 +111,33 @@ Enter Number: <input type="text" id="num">
 </html>
 
 OUTPUT:
+![Screenshot 2023-12-26 131136](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/9f994216-ed21-49c1-9b0b-a49561766cf6)
 
-![Screenshot 2023-12-26 131754](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/b7479b12-d32f-4527-8c13-40635cd3cffb)
 
 RESULT:
+Thus the java code executed to compute the factorial of a given number without recursion.
 
-Hence the result is verified successfully.
-
-
-'3
+PROGRAM 3
 AIM:
+To construct a JavaScript code to generate ‘N’ prime numbers.
 
-To construct a JavaScript code to generate 'N' prime numbers.
+DESIGNING PROCEDURE:
+STEP 1: Start define the document as HTML.
 
-PROCEDURE:
+STEP 2: Open the HTML structure with necessary head and body .Give the script type as text/javascript.
 
-'STEP 1:
+STEP 3: Define the function for the program as show().
 
-Begin with the basic 'html' structure. In the 'head', embed a 'script' tag to house the JavaScript code.
+STEP 4: Give the necessary input that is required to construct a java code to generate ‘N’ prime numbers . Get the number for input using document.getElementById.
 
-'STEP 2:
+STEP 5: Using for-loop condition generate ‘N’ prime numbers. Close the script and head tags.
 
-Inside the 'body', create a 'form' to capture user inputs. Add two input fields (input type="text") for users to enter a range of numbers: a starting number (n1) and an ending number (n2). Insert a button labeled "Generate" that, when clicked, triggers the JavaScript function to find prime numbers within the range.
-STEP 3:
+STEP 6: Give the input type in the body of the HTML.
 
-Define a JavaScript function named show(). Inside this function Retrieve the lower (n1) and upper (n2) limits entered by the user using getElementById. Implement nested loops to iterate through numbers between low and high. Within the loops, for each number: Check if it's divisible by any number between 2 and itself (j).
-
-'STEP 4:
-
-Run the java code to print the prime numbers N.
+STEP 7 : End the HTML structure.
 
 PROGRAM:
+<!DOCTYPE html>
 <html>
 <head>
 <script type="text/javascript">
@@ -178,7 +165,6 @@ alert(i);
 </head>
 <body>
 <form>
-    Enter Number:
 <input type="text" id="n1">
 <input type="text" id="n2">
 <input type="button" onclick="show()" value="Generate">
@@ -188,40 +174,32 @@ alert(i);
 
 OUTPUT:
 
- ![Screenshot 2023-12-26 131136](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/46567d25-2ab8-4f61-a08c-5f6244249e00)
+![Screenshot 2023-12-26 131754](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/59491f4f-d684-4bc8-bb20-b0db57ebd0a4)
 
 RESULT:
+Thus the java code executed to construct a JavaScript code to generate ‘N’ prime numbers.
 
-Hence the result is verified successfully.
-
-'4
-
+PROGRAM 4
 AIM:
+To construct a JavaScript program to implement a simple calculator.
 
-To construct a JavaScript program to implement a simple cakulator.
+DESIGNING PROCEDURE:
+STEP 1: Start define the document as HTML.
 
-'PROCEDURE:
+STEP 2: Open the HTML structure with necessary head and body .Give the script type as text/javascript.
 
-'STEP 1:
+STEP 3: Define the function for the program as function f1() for addition, function f2() for subtraction, function f3() for multiplication, function f4() for division, function f5() for sin(a), function f6() for cos(a) ,function f7() for tan(a), function f8() for a*a , function f9() for clear.
 
-Start with the basic 'html" structure. In the 'head', embed a 'script' tag to contain the JavaScript functions
+STEP 4: Give the necessary input that is required to implement a simple calculator. Get the number for input using document.getElementById.
 
-STEP 2:
+STEP 5: Close the script and head tags.
 
-Within the 'body', create a 'form' element for user interactions. Add multiple buttons, each representing a specific peration (eg, Add, Sulitract, Multiply, etc.). Include two input fields (input type="text") for users to input two numbers (n1 and n2). Provide an input field to display the result (n3).
+STEP 6: Give the input type in the body of the HTML.
 
-'STEP 3:
+STEP 7: End the HTML structure.
 
-Define individual JavaScript functions (110 to 19(0) for each operation
-
-Addition (110): Add numbers a and b, then display the result in n3. Subtraction (f2()): Subtract b from a, then display the result. Multiplication (13(1): Multiply a and b, then display the result. Division (140): Divide a by b, then display the result. Sine (150) Calculate sine of a and display. Cosine (160) Calculate cosine of a and display. Tangent (170) Cakulate tangent of a and display. Square (180) Square a and display the result. Clear (190): Clear all input and output fields.
-
-'STEP 4:
-
-Run the code
-
-'PROGRAM:
-
+PROGRAM:
+<!DOCTYPE html>
 <html>
 <head>
 <script type="text/javascript">
@@ -301,43 +279,36 @@ document.getElementById("n3").value=" ";
 </body>
 </html>
 
-OUTPUT:
 
- ![Screenshot 2023-12-26 132043](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/6bb25023-cd23-415d-8115-a8920f7f1d59)
+
+OUTPUT:
+![Screenshot 2023-12-26 132043](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/86b3c66c-1ae1-4ef4-8994-e05da03b81ee)
+
 
 RESULT:
+Thus the java code executed to implement a simple calculator.
 
-Hence the result is verified successfully.
-
-'5
+PROGRAM 5
 AIM:
-
 To design a simple text editor JavaScript application where we can manipulate the user input in different styles, edit the input, capitalize, and many string operations.
 
-PROCEDURE:
+DESIGNING PROCEDURE:
+STEP 1: Start define the document as HTML.
 
-'STEP 1:
+STEP 2: Open the HTML structure with necessary head and body .Give the script type as text/javascript.
 
-Create an HTML file that will act as the foundation for our text editor. Inside the "head" section, link to a JavaScript file.
+STEP 3: Define the function for the program as function f1() for bold, function f2() for italics, function f3() for uppercase, function f4() for lowercase, function f5() for capitalize, function f6() for right ,function f7() for left, function f8() for center, function f9() for clear formatting.
 
-'STEP 2:
+STEP 4: Give the necessary input that is required to design a simple text editor JavaScript application where we can manipulate the user input in different styles, edit the input, capitalize, and many string operations. Get the number for input using document.getElementById.
 
-Define the Javascript functions like text bold, text italic, all uppercase, all lowercase etc.
+STEP 5: Close the script and head tags.
 
-STEP 3:
+STEP 6: Give the input type in the body of the HTML.
 
-Add buttons in the form of input elements. Each button will have a specific action, like making text bold, aligning text, etc.
-
-'STEP 4:
-
-Inside each JavaScript function, use the getElementById method to select the text area by its ID ("num"). Apply different styles to the text inside the text area based on the button clicked. For example, the fontWeight property changes the text to bold when the "Bold" button is clicked.
-
-'STEP 5:
-
-Run the code and display the output
+STEP 7 : End the HTML structure.
 
 PROGRAM:
-
+<!DOCTYPE html>
 <html>
 <head>
 <script type="text/javascript">
@@ -404,37 +375,33 @@ Simple Text Editor using JavaScript
 
 OUTPUT:
 
-![Screenshot 2023-12-26 132319](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/7671e008-c243-4a7a-8c01-07a9783a40a7)
+![Screenshot 2023-12-26 132319](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/97317fc3-aeba-49ca-97b2-497321ccf0eb)
 
-'6
 
+RESULT:
+Thus the java code executed to design a simple text editor JavaScript application where we can manipulate the user input in different styles, edit the input, capitalize, and many string operations.
+
+PROGRAM 6:
 AIM:
+To design a JavaScript program which displays error messages when a field in form is entered incorrectly.
 
-To design a JavaScript program which displays error messages when a field in form is entered incorrectly
+DESIGNING PROCEDURE:
+STEP 1: Start define the document as HTML.
 
-PROCEDURE:
+STEP 2: Open the HTML structure with necessary head and body .Give the script type as text/javascript.
 
-'STEP 1:
+STEP 3: Define the function for the program as validate().
 
-Create an HTML file and Create arrays for error divs and input values.
+STEP 4: Give the necessary input that is required to design a JavaScript program which displays error messages when a field in form is entered incorrectly.Get the number for input using document.getElementById.
 
-'STEP 2:
+STEP 5: Using for-loop condition and if-else condition displays error messages when a field in form is entered incorrectly. Close the script and head tags.
 
-Use validate() to check usemame, password, and confirmation inputs. Display errors or "OKI" messages accordingly.
+STEP 6: Give the input type in the body of the HTML.
 
-'STEP 3:
+STEP 7 : End the HTML structure.
 
-Inside validate(), compare password and confirmation to ensure they match.
-
-'STEP 4:
-
-Implement finalValidate() to ensure both username and password validations are correct before displaying a success message.
-
-'STEP 5:
-
-Run the code and finally display the output
-
-'PROGRAM:
+PROGRAM :
+<!DOCTYPE html>
 <html>
 <head>
   <title>Form Validation</title>
@@ -511,12 +478,10 @@ Run the code and finally display the output
 </body>
 </html>
 
+
 OUTPUT:
 
-![Screenshot 2023-12-26 132555](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/063f1680-bcf8-4e05-a3ca-40653e49ea3e)
+![Screenshot 2023-12-26 132555](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/f0119ddf-0781-47fe-b76c-2f8fd79d9b10)
 
 RESULT:
-
-Hence the result is verified successfully.
-
-
+Thus the java code executed to design a JavaScript program which displays error messages when a field in form is entered incorrectly.
