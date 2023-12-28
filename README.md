@@ -26,7 +26,6 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7 : End the HTML structure.
 
 PROGRAM:
-
 '''
 <html>
 <head>
@@ -90,7 +89,6 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7 : End the HTML structure.
 
 PROGRAM:
-
 '''
 <html>
 <head>
@@ -147,7 +145,6 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7 : End the HTML structure.
 
 PROGRAM:
-
 '''
 <html>
 <head>
@@ -213,7 +210,6 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7: End the HTML structure.
 
 PROGRAM:
-
 '''
 <html>
 <head>
@@ -324,7 +320,6 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7 : End the HTML structure.
 
 PROGRAM:
-
 '''
 <html>
 <head>
@@ -389,7 +384,6 @@ Simple Text Editor using JavaScript
 </form>
 </body>
 </html>
-
 '''
 OUTPUT:
 
