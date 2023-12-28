@@ -26,6 +26,7 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7 : End the HTML structure.
 
 PROGRAM:
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -57,6 +58,7 @@ Enter Previous Reading
 </form>
 </body>
 </html>
+'''
 OUTPUT:
 
 ![Screenshot 2023-12-26 130916](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/5818117d-eee2-4e12-b732-79884f64bc68)
@@ -84,6 +86,7 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7 : End the HTML structure.
 
 PROGRAM:
+'''
 <!DOCTYPE html>
 <html>
 <head>
@@ -109,7 +112,7 @@ Enter Number: <input type="text" id="num">
 </form>
 </body>
 </html>
-
+'''
 OUTPUT:
 ![Screenshot 2023-12-26 131136](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/9f994216-ed21-49c1-9b0b-a49561766cf6)
 
@@ -137,6 +140,7 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7 : End the HTML structure.
 
 PROGRAM:
+'''
 <!DOCTYPE html>
 <html>
 <head>
@@ -171,7 +175,7 @@ alert(i);
 </form>
 </body>
 </html>
-
+'''
 OUTPUT:
 
 ![Screenshot 2023-12-26 131754](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/59491f4f-d684-4bc8-bb20-b0db57ebd0a4)
@@ -199,6 +203,7 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7: End the HTML structure.
 
 PROGRAM:
+'''
 <!DOCTYPE html>
 <html>
 <head>
@@ -278,7 +283,7 @@ document.getElementById("n3").value=" ";
 </form>
 </body>
 </html>
-
+'''
 
 
 OUTPUT:
@@ -308,6 +313,7 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7 : End the HTML structure.
 
 PROGRAM:
+'''
 <!DOCTYPE html>
 <html>
 <head>
@@ -372,7 +378,7 @@ Simple Text Editor using JavaScript
 </form>
 </body>
 </html>
-
+'''
 OUTPUT:
 
 ![Screenshot 2023-12-26 132319](https://github.com/salinianbzhgan/ODD23-24-WT-JavaScript/assets/145742862/97317fc3-aeba-49ca-97b2-497321ccf0eb)
@@ -401,6 +407,7 @@ STEP 6: Give the input type in the body of the HTML.
 STEP 7 : End the HTML structure.
 
 PROGRAM :
+'''
 <!DOCTYPE html>
 <html>
 <head>
@@ -477,7 +484,7 @@ PROGRAM :
 	</table>
 </body>
 </html>
-
+'''
 
 OUTPUT:
 
